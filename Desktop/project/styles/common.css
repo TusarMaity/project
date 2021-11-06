@@ -4,3 +4,12 @@
     size: 20%;
     margin: -1%;
 }
+.icon{
+    margin: 1px;
+    padding: 3px;
+}
+.description{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
