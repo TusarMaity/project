@@ -1,4 +1,16 @@
 .hotel-img{
-    height: 200px;
-    width: 250px;
+    height: 500px;
+    width: 500px;
+}
+#detai_id{
+    margin: 4%;
+}
+#form-id{
+    margin: 4%;
+}
+#Description{
+    margin-top: 1%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+    margin-left: 4%;
 }

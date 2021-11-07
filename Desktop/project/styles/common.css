@@ -21,3 +21,15 @@
     color: blue;
     cursor: pointer;
 }
+header{
+    background-color: rosybrown;
+}
+footer{
+    background-color: rosybrown;
+}
+body{
+    margin: 0px;
+}
+section{
+    background-color: #e0e0e0;
+}

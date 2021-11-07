@@ -1,4 +1,26 @@
 .hotel-img{
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
+    
+
+}
+#id1{
+    background-color: rgb(132,136,139);
+    width: 550px;
+    height: 550px;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#id2{
+    margin-left: 4%;
+    margin-bottom: 2%;
+}
+#id3{
+    border: 1px solid black;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+    border-radius: 2%;
+    padding: 10px;
 }

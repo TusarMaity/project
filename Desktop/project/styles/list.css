@@ -6,3 +6,8 @@
     height: 200px;
     width: 250px;
 }
+#hotel_list1, #hotel_list2,#hotel_list3{
+    background-color: rgb(132,136,139);
+    width: 400px;
+    margin: 5px;
+}
