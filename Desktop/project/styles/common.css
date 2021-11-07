@@ -1,8 +1,16 @@
 #logo{
-    height: 150px;
+    /* height: 150px;
     width: 200px;
     size: 20%;
-    margin: -1%;
+    margin: -1%; */
+    
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border-top-color: #444444;
+    position: relative;
+    left: 1%;
+    top: 50%;
 }
 .icon{
     margin: 1px;
