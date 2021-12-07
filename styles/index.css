@@ -1,9 +1,13 @@
-/* Added CSS for city image on landing page */
 #index-container {
     display: flex;
     flex-direction: column;
 }
-.city-cards {
+#view-more-city-cards {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4% 0%;
+}
+#city-cards {
     display: flex;
     justify-content: space-evenly;
     padding: 4% 0%;

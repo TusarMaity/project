@@ -72,13 +72,13 @@ let headerTemplate = () => {
       </div>
       <div id="social-media-images">
           <a href="https://www.facebook.com" target="_blank">
-              <img src="project/assests/images/facebook.png" class="social-media-image">
+              <img src="assests/images/facebook.png" class="social-media-image">
           </a>
           <a href="https://www.instagram.com" target="_blank">
-              <img src="project/assests/images/instagram.png" class="social-media-image">
+              <img src="assests/images/instagram.png" class="social-media-image">
           </a>
           <a href="https://twitter.com" target="_blank">
-              <img src="project/assests/images/twitter.png" class="social-media-image">
+              <img src="assests/images/twitter.png" class="social-media-image">
           </a>
       </div>
   </footer>`;
